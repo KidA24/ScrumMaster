@@ -4,10 +4,10 @@ I'm looking forward to getting to know you! What this document is: A quick intro
 ## My Role as a Scrum Master
 TL;DR: My goal as a Scrum Master is to help our team and organziation move further down this Agile path - to improve the way we work as well as the work we produce. I hope to do this through training, coaching, mentoring and facilitation. I might have thoughts on how we work as a team, and I expect you will to. The goal is to share these thoughts and consistently improve as a team moving forward. 
 #### How do I do that? 
-1. Training: I *know* Scrum. Scrum is a very simple framework, heck the PDF version of the [guide is only 19 pages.](https://www.scrumguides.org/scrum-guide.html). It's easy to learn, but very difficult to master, and I will happily dive deep into the "Why" behind everything within Scrum. I want to teach you all about Scrum and Agile. 
-2. Coaching: I want us to do the best work that we can. Coaching, in general, is on an individual basis. It will be focused on things you can do better as an individual on the team to help grow our agile mindset and deliver more value for our organization. 
-3. Mentoring: I want to be someone who can offer advice and guidance. I want you to learn from my experiences, both my mistakes and my successes. 
-4. Facilitating: You know your world, your organization, your jobs better than I do. When I am facilitating, my goal is to create a safe space and allow you to dive into our problems, issues or succeses and find ways for us to improve. 
+1. **Training:** I *know* Scrum. Scrum is a very simple framework, heck the PDF version of the [guide is only 19 pages.](https://www.scrumguides.org/scrum-guide.html) It's easy to learn, but very difficult to master, and I will happily dive deep into the "Why" behind everything within Scrum. I want to teach you all about Scrum and Agile. 
+2. **Coaching:** I want us to do the best work that we can. Coaching, in general, is on an individual basis. It will be focused on things you can do better as an individual on the team to help grow our agile mindset and deliver more value for our organization. 
+3. **Mentoring:** I want to be someone who can offer advice and guidance. I want you to learn from my experiences, both my mistakes and my successes. 
+4. **Facilitating:** You know your world, your organization, your jobs better than I do. When I am facilitating, my goal is to create a safe space and allow you to dive into our problems, issues or succeses and find ways for us to improve. 
 
 Additionally: My job is **NOT** to tell you exactly what to do or how to do it. My goal is to become a valued member of the team, offer insights and help grow our relationships so we work more cohesively and create move value for our organization. 
 
@@ -34,5 +34,6 @@ My time is your time. My primary goal is to serve the team. Some weeks my schedu
 * E-mail or message me. If you want to schedule some time to talk, in person, you can ask this way. If you'd rather chat over messages or e-mail, we can do that as well. 
 * Put something on my calender. Send me an invite. I'll share my calendar with the team so that you hopefully see when/where/why I've disappeared to if I'm not around. 
 
-## My interests - What does this weirdo do outside of here, anyway?
-* 
+## My interests - More than Scrum and Agile (believe it or not)
+* I love the outdoors. I love to bicycle, hike, camp, and backpack. Almost every year I take a vacation centered around exploring a place I haven't been on foot with my tent, food and everything else strapped to my back. It's let me see some amazing things and explore some beautiful places.
+
