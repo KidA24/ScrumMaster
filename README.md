@@ -37,7 +37,7 @@ My time is your time. My primary goal is to serve the team. Some weeks my schedu
 ## My interests - More than Scrum and Agile (believe it or not)
 * I love the outdoors. I love to hike, camp, and backpack. Almost every year I take a vacation centered around exploring a place I haven't been on foot with my tent, food and everything else strapped to my back. It's let me see some amazing things and explore some beautiful places.
 
-![Glacier National Park](https://github.com/KidA24/ScrumMaster/blob/master/DSC_0101.JPG =400px)
+![Glacier National Park](https://github.com/KidA24/ScrumMaster/blob/master/DSC_0101.JPG)
 
 * I ride my bicycle quite a bit. I have done the [Scenic Shore 150](https://events.lls.org/pages/wi/2019ScenicShore150/) two years in a row and have had a great time doing it. My brother-in-law is a Survivor and it's an absolute thrill to ride with him and my sister (pictured below) each year. 
 
