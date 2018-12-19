@@ -35,6 +35,16 @@ My time is your time. My primary goal is to serve the team. Some weeks my schedu
 * Put something on my calender. Send me an invite. I'll share my calendar with the team so that you hopefully see when/where/why I've disappeared to if I'm not around. 
 
 ## My interests - More than Scrum and Agile (believe it or not)
-* I love the outdoors. I love to bicycle, hike, camp, and backpack. Almost every year I take a vacation centered around exploring a place I haven't been on foot with my tent, food and everything else strapped to my back. It's let me see some amazing things and explore some beautiful places.
+* I love the outdoors. I love to hike, camp, and backpack. Almost every year I take a vacation centered around exploring a place I haven't been on foot with my tent, food and everything else strapped to my back. It's let me see some amazing things and explore some beautiful places.
 
 ![Glacier National Park](https://github.com/KidA24/ScrumMaster/blob/master/DSC_0101.JPG)
+
+* I ride my bicycle quite a bit. I have done the [Scenic Shore 150](https://events.lls.org/pages/wi/2019ScenicShore150/) two years in a row and have had a great time doing it. My brother-in-law is a Survivor and it's an absolute thrill to ride with him and my sister (pictured below) each year. 
+
+![After the 150 my first year](https://github.com/KidA24/ScrumMaster/blob/master/SS150.jpg)
+
+* I play [Ultimate Frisbee.](https://www.usaultimate.org/resources/officiating/rules/default.aspx#10simplerules) It helps keep me in shape and get me outside with close friends. I've made lifelong friends playing this game and it never ceases to amaze me what these great athletes can do [on the field.  ](https://www.youtube.com/watch?v=9vSV6Wf7l_k)
+
+* Boardgames. Seriously. I love them. I have a huge collection. It truly is the golden age of boardgames right now. 
+
+* Cooking, Grilling and Tailgating. I like to throw a good party and I love the Milwaukee Brewers.... ask me about March Madness sometime. 
