@@ -35,7 +35,7 @@ I encourage you to write things down when as they come up and it pops into your 
 My time is your time. My primary goal is to serve the team. Some weeks my schedule may be busy with doing other things (such as Road mapping or organizational coaching), but my team always has first priority. My time is your time. I am on a pull request for you. How can you do this? 
 * Grab me at my desk. If I'm there, I probably have a moment to chat. If it's a bad time, I'll tell you and find sometime soon to have the conversation. 
 * E-mail or message me. If you want to schedule some time to talk, in person, you can ask this way. If you'd rather chat over messages or e-mail, we can do that as well. 
-* Put something on my calender. Send me an invite. I'll share my calendar with the team so that you hopefully see when/where/why I've disappeared to if I'm not around. 
+* Put something on my calendar. Send me an invite. I'll share my calendar with the team so that you hopefully see when/where/why I've disappeared to if I'm not around. 
 
 ## My interests beyond Scrum and Agile (believe it or not)
 * I love the outdoors. I love to hike, camp, and backpack. Almost every year I take a vacation centered around exploring a place I haven't been on foot with my tent, food and everything else strapped to my back. It's let me see some amazing things and explore some beautiful places.
