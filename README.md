@@ -1,3 +1,6 @@
+<!-- Need to elaborate and add additional information in order to help guide and set expectations not only of me but of how the team can work together and where the team might end up being. 
+ Add additional information to pull it back around Agile principals, iterative improvement, etc -->
+
 # Hi, I'm Erin
 I'm looking forward to getting to know you! What this document is: A quick introduction to who I am, how I think and how I work. It is not intended to override our personal interactions and mutual understanding that we'll build as we work together. 
 
