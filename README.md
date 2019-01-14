@@ -15,9 +15,9 @@ TL;DR: My goal as a Scrum Master is to help our team and organziation move furth
 Additionally: My job is **NOT** to tell you exactly what to do or how to do it. My goal is to become a valued member of the team, offer insights and help grow our relationships so we work more cohesively and create move value for our organization. 
 
 ## What I need from you
-1. **Curiosity and courage** When you have questions, ask them. When you think "Why are we doing this?" speak up. 
-2. **Openness and Experimentation** A huge part of becoming Agile is experimenting with how we work and trying new things. If the experiment doesn't work perfectly, we can always try something new (with doing things the old way as one of those options)
-3. **Respect** We are all peers. A big part of becoming a team is realizing that everyone is on the same footing and that ideas can come from anywhere and that our goal is to deliver high quality, valuable, working software for our stakeholders and users.
+1. **Curiosity and Courage:** When you have questions, ask them. When you think "Why are we doing this?" speak up. 
+2. **Openness and Experimentation:** A huge part of becoming Agile is experimenting with how we work and trying new things. If the experiment doesn't work perfectly, we can always try something new (with doing things the old way as one of those options)
+3. **Respect:** We are all peers. A big part of becoming a team is realizing that everyone is on the same footing and that ideas can come from anywhere and that our goal is to deliver high quality, valuable, working software for our stakeholders and users.
 4. **
 ## Feedback
 If you have feedback for me, please give it. If it's something you liked that I did, and want me to do more of it, tell me. If there's something you didn't like, or thought I could do better or something I completely screwed up... even if you think I might not want to hear it, trust me, I *do* want to hear it. 
