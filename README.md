@@ -5,19 +5,19 @@
 I'm looking forward to getting to know you! What this document is: A quick introduction to who I am, how I think, and how I work. It is not intended to override our personal interactions and mutual understanding that we'll build as we work together. 
 
 ## My Role as a Scrum Master
-TL;DR: My goal as a Scrum Master is to help our team and organziation move further down this Agile path - to improve the way we work as well as the work we produce. I hope to do this through training, coaching, mentoring and facilitation. I might have thoughts on how we work as a team, and I expect you will to. The goal is to share these thoughts and consistently improve as a team moving forward. 
+TL;DR: My goal as a Scrum Master is to help our team and organziation move further down this Agile path - to improve the way we work as well as the work we produce. I hope to do this through training, coaching, mentoring and facilitation. I might have thoughts on how we work as a team, and I expect you will too. The goal is to share these thoughts and consistently improve as a team moving forward. 
 #### How do I do that? 
 1. **Training:** I *know* Scrum. Scrum is a very simple framework, heck the PDF version of the [guide is only 19 pages.](https://www.scrumguides.org/scrum-guide.html) It's easy to learn, but very difficult to master, and I will happily dive deep into the "Why" behind everything within Scrum. I want to teach you all about Scrum and Agile. 
 2. **Coaching:** I want us to do the best work that we can. Coaching, in general, is on an individual basis. It will be focused on things you can do better as an individual on the team to help grow our agile mindset and deliver more value for our organization. 
 3. **Mentoring:** I want to be someone who can offer advice and guidance. I want you to learn from my experiences, both my mistakes and my successes. 
-4. **Facilitating:** You know your world, your organization, your code bases and your jobs better than I do. When I am facilitating, my goal is to create a safe space and allow you to dive into our problems, issues or succeses and find ways for us to improve. 
+4. **Facilitating:** You know your world, your organization, your code bases and your jobs better than I do. When I am facilitating, my goal is to create a safe space and allow you to dive into our problems, issues or successes and find ways for us to improve. 
 
 Additionally: My job is **NOT** to tell you exactly what to do or how to do it. My goal is to become a valued member of the team, offer insights and help grow our relationships so we work more cohesively and deliver what our organization needs the most. 
 
 ## What I need your help with
 1. **Commitment:** Commitment is about *dedication* and applies to our actions and effort as a team, not just the final result. We commit to each other, to learning, to self-organization, to quality, to look for ways to improve. 
 2. **Curiosity and Courage:** When you have questions, ask them. When you think "Why are we doing this?" speak up. 
-3. **Willingness to Experiment:** A huge part of becoming Agile is experimenting with how we work and trying new things. If the experiment doesn't work perfectly, we can always try something new (with doing things the old way as one of those options)
+3. **Willingness to Experiment:** A huge part of becoming Agile is experimenting with how we work and trying new things. If the experiment doesn't work perfectly, we can always try something new (with doing things the old way as one of those options).
 4. **Respect:** We are all peers. A big part of becoming a team is realizing that everyone is on the same footing and that ideas can come from anywhere. 
 
 ## Feedback
