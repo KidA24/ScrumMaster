@@ -48,7 +48,7 @@ My time is your time. My primary goal is to serve the team. Some weeks my schedu
 * E-mail or message me. If you want to schedule some time to talk, in person, you can ask this way. If you'd rather chat over messages or e-mail, we can do that as well. 
 * Put something on my calendar. Send me an invite. I'll share my calendar with the team so that you hopefully see when/where/why I've disappeared to if I'm not around. 
 
-## My interests beyond Scrum and Agile (believe it or not)
+## My interests beyond Scrum and Agile (believe it or not they exist)
 * I love the outdoors. I love to hike, camp, and backpack. Almost every year I take a vacation centered around exploring a place I haven't been on foot with my tent, food and everything else strapped to my back. It's let me see some amazing things and explore some beautiful places.
 
 ![Glacier National Park](https://github.com/KidA24/ScrumMaster/blob/master/DSC_0101.JPG)
