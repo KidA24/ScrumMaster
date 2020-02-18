@@ -5,7 +5,7 @@
 I'm looking forward to getting to know you! What this document is: A quick introduction to who I am, how I think, and how I work. It is not intended to override our personal interactions and mutual understanding that we'll build as we work together. 
 
 ## My Role as a Scrum Master
-TL;DR: My goal as a Scrum Master is to help our team and organziation move further down this Agile path - to improve the way we work as well as the work we produce. I hope to do this through training, coaching, mentoring and facilitation. I might have thoughts on how we work as a team, and I expect you will too. The goal is to share these thoughts and consistently improve as a team moving forward. 
+TL;DR: My goal as a Scrum Master is to help our team and organziation move further down this Agile path - to improve the way we work as well as the work we produce. I hope to do this through training, coaching, mentoring and facilitation. I might have thoughts on how we work as a team, and I expect you will too. The goal is to share these thoughts and consistently improve as a team (and organization) moving forward. 
 
 Long Term, my goal is to have the team become confident enough and to take over ownership of the Scrum process and work myself from being a permanent Scrum Master with the team to more of an as-needed consulting role (so that I can help other areas of the organization - including other teams). 
 
@@ -18,7 +18,7 @@ Long Term, my goal is to have the team become confident enough and to take over 
 Additionally: My job is **NOT** to tell you exactly what to do or how to do it. My goal is to become a valued member of the team, offer insights and help grow our relationships so we work more cohesively and deliver what our organization needs the most. 
 
 ## What I need your help with
-1. **Commitment:** Commitment is about *dedication* and applies to our actions and effort as a team, not just the final result. We commit to each other, to learning, to self-organization, to quality, to look for ways to improve. 
+1. **Commitment:** Commitment is about *dedication* and applies to our actions and effort as a team, not just the final result. We commit to each other, to learning, to self-organization, to quality, and to look for ways to improve. 
 2. **Curiosity and Courage:** When you have questions, ask them. When you think "Why are we doing this?" speak up. 
 3. **Willingness to Experiment:** A huge part of becoming Agile is experimenting with how we work and trying new things. If the experiment doesn't work perfectly, we can always try something new (with doing things the old way as one of those options).
 4. **Respect:** We are all peers. A big part of becoming a team is realizing that everyone is on the same footing and that ideas can come from anywhere. 
@@ -53,7 +53,7 @@ My time is your time. My primary goal is to serve the team. Some weeks my schedu
 
 ![Glacier National Park](https://github.com/KidA24/ScrumMaster/blob/master/DSC_0101.JPG)
 
-* I ride my bicycle quite a bit. I have done the [Scenic Shore 150](https://events.lls.org/pages/wi/2019ScenicShore150/) two years in a row and have had a great time doing it. My brother-in-law is a Survivor and it's an absolute thrill to ride with him and my sister (pictured below) each year. 
+* I ride my bicycle quite a bit. I have done the [Scenic Shore 150](https://events.lls.org/pages/wi/2020ScenicShore150/) twice, and this summer will be my third time. My brother-in-law is a Survivor and it's an absolute thrill to ride with him and my sister (pictured below) each year. 
 
 ![After the 150 my first year](https://github.com/KidA24/ScrumMaster/blob/master/SS150.jpg)
 
