@@ -10,9 +10,9 @@ TL;DR: My goal as a Scrum Master is to help our team and organziation move furth
 Long Term, my goal is to have the team become confident enough and to take over ownership of the Scrum process and work myself from being a permanent Scrum Master with the team to more of an as-needed consulting role (so that I can help other areas of the organization - including other teams). 
 
 ## Where I've been
-I started my professional journey as a Quality Engineer. Eventually I joined an amazing Scrum team which encouraged me to be more than a gate keeper. Instead of throwing work over the wall to me, they encouraged me to write integration tests, participate in TDD, and have white boarding sessions with the entire team around how I might test new features. It broke my brain a bit. I wanted to learn more, and I kept moving down the Agile path in my knowledge and became a Scrum Master. Since that decision, I've helped different organziations move forward and become more people centric. 
+I started my professional journey as a Quality Engineer. Eventually I joined an amazing Scrum team who encouraged me to be more than a gate keeper. Instead of throwing work over the wall to me, they encouraged me to write integration tests, participate in TDD, and have white boarding sessions with the entire team around how I might test new features. It broke my brain a bit - in a good way. I wanted to learn more, and I kept moving down the Agile, reading more, attending meetups and picking people's brains and eventually, I became a Scrum Master. 
 
-#### How do I help? 
+#### How can I help? 
 1. **Training:** I *know* Scrum. Scrum is a very simple framework, heck the PDF version of the [guide is only 19 pages.](https://www.scrumguides.org/scrum-guide.html) It's easy to learn, but very difficult to master, and I will happily dive deep into the "Why" behind everything within Scrum. I want to teach you all about Scrum and Agile. 
 2. **Coaching:** I want us to do the best work that we can. Coaching, in general, is on an individual basis. It will be focused on things you can do better as an individual on the team to help grow our agile mindset and deliver more value for our organization. 
 3. **Mentoring:** I want to be someone who can offer advice and guidance. I want you to learn from my experiences, both my mistakes and my successes. 
